@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/SHIPL.jpg</file>
+        <file>image/SHIPR.jpg</file>
+        <file>image/SHIPW.jpg</file>
+    </qresource>
+</RCC>
